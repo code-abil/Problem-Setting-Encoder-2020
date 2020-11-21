@@ -1,0 +1,2 @@
+100000
+Time taken by program: 23397884 microseconds
